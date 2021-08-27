@@ -1,3 +1,7 @@
+theme: jekyll-theme-cayman
+title: Booker Lab
+Description: Homepage for the laboratory of Sam A Booker
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SamABooker/BookerLab.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
